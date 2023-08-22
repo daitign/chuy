@@ -1,0 +1,8 @@
+{
+  "name": "chuy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "1a9ab164"
+}
